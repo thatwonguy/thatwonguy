@@ -1,6 +1,6 @@
 <div style="padding:0; margin:0;">
   <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/cyberpunk_hacker.gif" style="width:100%;" alt="cyberpunk hacker city gif"/>
-  <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/hello_rotating.gif" style="width:100%; margin-bottom:-8px; margin-top:-6px;" alt="rotating hello multiple languages gif"/>
+  <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/hello_rotating.gif" style="width:100%; margin-bottom:-10px; margin-top:-10px;" alt="rotating hello multiple languages gif"/>
   <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/mario_coding.gif" style="width:100%" alt="Retro Mario l33t coder wfh set-up"/>
 </div>
 
