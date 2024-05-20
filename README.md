@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/mod/gifs/cyberpunk_hacker.gif" align="middle" alt="cyberpunk hacker city gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/cyberpunk_hacker.gif" align="middle" alt="cyberpunk hacker city gif" width="100%"/>
 
 <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/mod/gifs/hello_rotating.gif" align = "middle" width="100%" alt="rotating hello multiple languages gif" align="middle"/>
 
