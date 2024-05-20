@@ -1,7 +1,7 @@
 <div style="padding:0; margin:0;">
-  <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/cyberpunk_hacker.gif" alt="cyberpunk hacker city gif" width="100%"/>
-  <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/hello_rotating.gif" alt="rotating hello multiple languages gif" width="100%"/>
-  <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/mario_coding.gif" alt="Retro Mario l33t coder wfh set-up" width="100%"/>
+  <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/cyberpunk_hacker.gif" style="width:100%; margin-bottom:0px;" alt="cyberpunk hacker city gif"/>
+  <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/hello_rotating.gif" style="width:100%; margin-bottom:-7px; margin-top:-6px;" alt="rotating hello multiple languages gif"/>
+  <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/mario_coding.gif" style="width:100%" alt="Retro Mario l33t coder wfh set-up"/>
 </div>
 
 <div align="center">
@@ -11,6 +11,7 @@
 ![](https://komarev.com/ghpvc/?username=thatwonguy)
 
 </div>
+
 
 
 <!-- [![thatwonguy's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatwonguy&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/thatwonguy/github-readme-stats)
