@@ -1,6 +1,3 @@
-
-
-
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/59163c56-55ac-4813-b4aa-b57082e708e6" align="middle" alt="Banner" width="100%"/>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" align = "middle" width="100%" alt="animated hello" align="middle"/>
