@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=👋 Hi There!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/59163c56-55ac-4813-b4aa-b57082e708e6" align="middle" alt="Banner" width="100%"/>
 
 <br>
