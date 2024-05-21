@@ -1,7 +1,7 @@
 <div style="display:flex; flex-direction:column; flex-wrap:wrap; grid-auto-flow: row; padding:0; margin:0;">
-    <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/cyberpunk_hacker.gif" style="width:100%;"/>
-    <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/hello_rotating.gif" style="width:100%;"/>
-    <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/mario_coding.gif" style="width:100%;"/>
+    <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/cyberpunk_hacker.gif" style="width:100%; display: inline; margin:0; float: none;"/>
+    <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/hello_rotating.gif" style="width:100%; display: inline; margin:0; float: none;"/>
+    <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/mario_coding.gif" style="width:100%; display: inline; margin:0; float: none;"/>
 </div>
 
 <!-- <div style="display:flex; flex-direction:column; padding:0; margin:0;">
