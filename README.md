@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: column; padding:0; margin:0;">
+<div style="display:flex; flex-direction:column; padding:0; margin:0; border-collapse:collapse; border-spacing:0;">
     <img src="gifs/cyberpunk_hacker.gif" style="width:100%; display:block; padding:0; margin:0;"/>
     <img src="gifs/hello_rotating.gif" style="width:100%; display:block; padding:0; margin:0px 0;"/>
     <img src="gifs/mario_coding.gif" style="width:100%; display:block; padding:0; margin:0px 0 0 0;"/>
