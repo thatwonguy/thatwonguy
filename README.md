@@ -1,7 +1,7 @@
 <div style="padding:0; margin:0;">
     <img src="gifs/cyberpunk_hacker.gif" style="width:100%; display:block; padding:0; margin:0;"/>
-    <img src="gifs/hello_rotating.gif" style="width:100%; display:block; padding:0; margin:-4px 0;"/>
-    <img src="gifs/mario_coding.gif" style="width:100%; display:block; padding:0; margin:-4px 0 0 0;"/>
+    <img src="gifs/hello_rotating.gif" style="width:100%; display:block; padding:0; margin:0px 0;"/>
+    <img src="gifs/mario_coding.gif" style="width:100%; display:block; padding:0; margin:0px 0 0 0;"/>
 </div>
 
 <!-- 
