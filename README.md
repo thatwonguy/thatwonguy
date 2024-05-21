@@ -4,10 +4,10 @@
     <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/mario_coding.gif" style="width:100%; display:block; margin:0; margin-top:-4px;"/>
 </div> -->
 
-<div style="padding:0; margin:0;">
-    <img src="gifs/cyberpunk_hacker.gif" style="width:100%; display:flex; flex-direction:column; margin:0;"/>
-    <img src="gifs/hello_rotating.gif" style="width:100%; display:flex; flex-direction:column;margin:0; margin-top:0px;"/>
-    <img src="gifs/mario_coding.gif" style="width:100%; display:flex; flex-direction:column;margin:0; margin-top:0px;"/>
+<div style="padding:0; margin:0; display:flex; flex-direction:column;">
+    <img src="gifs/cyberpunk_hacker.gif" style="width:100%; display:block;"/>
+    <img src="gifs/hello_rotating.gif" style="width:100%; display:block;"/>
+    <img src="gifs/mario_coding.gif" style="width:100%; display:block;"/>
 </div>
 
 <div align="center">
