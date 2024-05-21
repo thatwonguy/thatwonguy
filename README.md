@@ -2,11 +2,16 @@
 <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/hello_rotating.gif" align="middle" width="100%;"/>
 <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/mario_coding.gif" align="middle" width="100%;"/> -->
 
-<div style="display:flex; flex-direction:column; padding:0; margin:0;">
+<!-- <div style="display:flex; flex-direction:column; padding:0; margin:0;">
     <img src="gifs/cyberpunk_hacker.gif" style="width:100%; margin:0; padding:0;"/>
     <img src="gifs/hello_rotating.gif" style="width:100%; margin:-10px 0; padding:0;"/>
     <img src="gifs/mario_coding.gif" style="width:100%; margin:-10px 0 0 0; padding:0;"/>
-</div>
+</div> -->
+
+
+<img src="gifs/cyberpunk_hacker.gif" align="middle" alt="Banner" width="100%"/>
+<img src="gifs/hello_rotating.gif" align = "middle" width="100%" alt="animated hello" align="middle"/>
+<img src="gifs/mario_coding.gif" align="middle" alt="Retro Mario l33t coder" width=100%/>
 
 <!-- 
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/59163c56-55ac-4813-b4aa-b57082e708e6" align="middle" alt="Banner" width="100%"/>
