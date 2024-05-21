@@ -1,14 +1,14 @@
-<!-- <div style="padding:0; margin:0;">
-    <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/cyberpunk_hacker.gif" style="width:100%; display:block; margin:0;"/>
-    <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/hello_rotating.gif" style="width:100%; display:block; margin:0; margin-top:-4px;"/>
-    <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/mario_coding.gif" style="width:100%; display:block; margin:0; margin-top:-4px;"/>
-</div> -->
-
 <div style="display:flex; flex-direction:column; padding:0; margin:0;">
+    <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/cyberpunk_hacker.gif" style="width:100%;"/>
+    <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/hello_rotating.gif" style="width:100%;"/>
+    <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/mario_coding.gif" style="width:100%;"/>
+</div>
+
+<!-- <div style="display:flex; flex-direction:column; padding:0; margin:0;">
     <img src="gifs/cyberpunk_hacker.gif" style="width:100%;"/>
     <img src="gifs/hello_rotating.gif" style="width:100%;"/>
     <img src="gifs/mario_coding.gif" style="width:100%;"/>
-</div>
+</div> -->
 
 <div align="center">
 <br>
