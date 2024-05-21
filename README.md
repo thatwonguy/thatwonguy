@@ -1,8 +1,12 @@
-<div style="padding:0; margin:0;">
+<!-- <div style="padding:0; margin:0;">
     <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/cyberpunk_hacker.gif" style="width:100%; display:block; margin:0;"/>
-    <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/hello_rotating.gif" style="width:100%; display:block; margin:0; margin-top:-20px;"/>
-    <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/mario_coding.gif" style="width:100%; display:block; margin:0; margin-top:-20px;"/>
-</div>
+    <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/hello_rotating.gif" style="width:100%; display:block; margin:0; margin-top:-4px;"/>
+    <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/mario_coding.gif" style="width:100%; display:block; margin:0; margin-top:-4px;"/>
+</div> -->
+
+![](gifs/cyberpunk_hacker.gif)
+![](gifs/hello_rotating.gif)
+![](gifs/mario_coding.gif)
 
 <div align="center">
 <br>
