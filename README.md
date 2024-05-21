@@ -4,9 +4,11 @@
     <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/mario_coding.gif" style="width:100%; display:block; margin:0; margin-top:-4px;"/>
 </div> -->
 
-![](gifs/cyberpunk_hacker.gif)
-![](gifs/hello_rotating.gif)
-![](gifs/mario_coding.gif)
+<div style="padding:0; margin:0;">
+    <img src="gifs/cyberpunk_hacker.gif" style="width:100%; display:block; margin:0;"/>
+    <img src="gifs/hello_rotating.gif" style="width:100%; display:block; margin:0; margin-top:-4px;"/>
+    <img src="gifs/mario_coding.gif" style="width:100%; display:block; margin:0; margin-top:-4px;"/>
+</div>
 
 <div align="center">
 <br>
@@ -15,6 +17,7 @@
 ![](https://komarev.com/ghpvc/?username=thatwonguy)
 
 </div>
+
 
 
 <!-- [![thatwonguy's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatwonguy&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/thatwonguy/github-readme-stats)
