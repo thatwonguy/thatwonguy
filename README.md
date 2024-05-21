@@ -5,9 +5,9 @@
 </div> -->
 
 <div style="display:flex; flex-direction:column; padding:0; margin:0;">
-    <img src="gifs/cyberpunk_hacker.gif" style="width:100%; padding:0; margin:0;"/>
-    <img src="gifs/hello_rotating.gif" style="width:100%; padding:0; margin:0;"/>
-    <img src="gifs/mario_coding.gif" style="width:100%; padding:0; margin:0;"/>
+    <img src="gifs/cyberpunk_hacker.gif" style="width:100%;"/>
+    <img src="gifs/hello_rotating.gif" style="width:100%;"/>
+    <img src="gifs/mario_coding.gif" style="width:100%;"/>
 </div>
 
 <div align="center">
