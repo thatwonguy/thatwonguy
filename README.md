@@ -1,4 +1,4 @@
-<div style="display:flex; flex-direction:column; padding:0; margin:0; border-collapse:collapse; border-spacing:0;">
+<!-- <div style="display:flex; flex-direction:column; padding:0; margin:0; border-collapse:collapse; border-spacing:0;">
     <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/cyberpunk_hacker.gif" style="width:100%; padding:0; margin:0; border:none;"/>
     <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/hello_rotating.gif" style="width:100%; padding:0; margin:0; border:none;"/>
     <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/mario_coding.gif" style="width:100%; padding:0; margin:0; border:none;"/>
@@ -10,7 +10,22 @@
 
 ![](https://komarev.com/ghpvc/?username=thatwonguy)
 
+</div> -->
+
+<div style="padding:0; margin:0; display:flex; flex-direction:column;">
+    <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/cyberpunk_hacker.gif" style="width:100%; margin-bottom:-10px;"/>
+    <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/hello_rotating.gif" style="width:100%; margin-top:-10px; margin-bottom:-10px;"/>
+    <img src="https://raw.githubusercontent.com/thatwonguy/thatwonguy/main/gifs/mario_coding.gif" style="width:100%; margin-top:-10px;"/>
 </div>
+
+<div align="center">
+<br>
+<br>
+
+![](https://komarev.com/ghpvc/?username=thatwonguy)
+
+</div>
+
 
 <!-- [![thatwonguy's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatwonguy&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/thatwonguy/github-readme-stats)
 
