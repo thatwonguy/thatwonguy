@@ -6,8 +6,8 @@
 
 <div style="padding:0; margin:0;">
     <img src="gifs/cyberpunk_hacker.gif" style="width:100%; display:block; margin:0;"/>
-    <img src="gifs/hello_rotating.gif" style="width:100%; display:block; margin:0; margin-top:-4px;"/>
-    <img src="gifs/mario_coding.gif" style="width:100%; display:block; margin:0; margin-top:-4px;"/>
+    <img src="gifs/hello_rotating.gif" style="width:100%; display:block; margin:0; margin-top:0px;"/>
+    <img src="gifs/mario_coding.gif" style="width:100%; display:block; margin:0; margin-top:0px;"/>
 </div>
 
 <div align="center">
