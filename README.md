@@ -10,6 +10,26 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="middle" alt="Retro Mario l33t coder" width=100%/>
 
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+class Engineer:
+
+    def __init__(self):
+        self.name = "Mo"
+        self.roles = ["Data Engineer", "Machine Learning Engineer", "Cloud Architect", "Developer"]
+        self.language_spoken = ["en_US"]
+        self.degrees = ["Engineering"]
+        self.hobbies = "Too many to list"
+
+    def say_hello(self):
+        print("Welcome to my Github. Feel free to drop me a message!")
+
+me = Engineer()
+me.say_hello()
+```
+
 <div align="center">
 <br>
 <br>
