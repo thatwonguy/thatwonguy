@@ -18,10 +18,11 @@ class Engineer:
 
     def __init__(self):
         self.name = "Mo"
-        self.roles = ["Data Engineer", "Machine Learning Engineer", "Cloud Architect", "Developer"]
-        self.language_spoken = ["en_US"]
+        self.roles = ["Solution Finder", "All Sorts of Engineering", "Data Engineer", "Machine Learning Engineer", "Cloud Architect", "Developer"]
+        self.language_spoken = ["en_US","more"]
         self.degrees = ["Engineering"]
         self.hobbies = "Too many to list"
+        self.fun_facts = "Constantly learning, tinkering, solving, understanding, collaborating, contributing."
 
     def say_hello(self):
         print("Welcome to my Github. Feel free to drop me a message!")
