@@ -18,7 +18,7 @@ class Engineer:
 
     def __init__(self):
         self.name = "Mo"
-        self.roles = ["Solution Finder", "All Sorts of Engineering", "Data Engineer", "Machine Learning Engineer", "Cloud Architect", "Developer"]
+        self.roles = ["Solution Finder", "Engineering", "Data Engineer", "Machine Learning Engineer", "Cloud Architect"]
         self.language_spoken = ["en_US","more"]
         self.degrees = ["Engineering"]
         self.hobbies = "Too many to list"
