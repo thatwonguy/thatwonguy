@@ -19,7 +19,7 @@ class Engineer:
     def __init__(self):
         self.name = "Mo"
         self.roles = ["Solution Finder", "Data Engineer", "Machine Learning Engineer", "Cloud Architect"]
-        self.language_spoken = ["en_US","more"]
+        self.language_spoken = ["en_US","others"]
         self.degrees = ["Engineering"]
         self.hobbies = "Too many to list"
         self.fun_facts = "Constantly learning, tinkering, solving, understanding, collaborating, contributing, exploring."
