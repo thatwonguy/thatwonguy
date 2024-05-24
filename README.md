@@ -25,7 +25,7 @@ class Engineer:
         self.degrees = ["Engineering"]
         self.hobbies = "Too many to list"
         self.fun_facts = (
-                            "Constantly learning, tinkering, solving, "
+                            "Constantly learning, tinkering, solving, creating, "
                             "understanding, collaborating, contributing, exploring."
                          )
     def say_hello(self):
