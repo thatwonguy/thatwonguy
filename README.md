@@ -25,8 +25,9 @@ class Engineer:
         self.degrees = ["Engineering"]
         self.hobbies = "Too many to list"
         self.fun_facts = (
-                            "Constantly learning, tinkering, solving, creating, "
-                            "understanding, collaborating, contributing, exploring."
+                            "Constantly learning, contributing, exploring, "
+                            "solving, creating, innovating, optimizing, "
+                            "analyzing, developing, tinkering."
                          )
     def say_hello(self):
         print("Welcome to my Github. Feel free to drop me a message!")
