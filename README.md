@@ -38,9 +38,7 @@ me.say_hello()
 <div align="center">
 <br>
 <br>
-
 ![](https://komarev.com/ghpvc/?username=thatwonguy)
-
 </div>
 
 <!-- [![thatwonguy's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatwonguy&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/thatwonguy/github-readme-stats)
